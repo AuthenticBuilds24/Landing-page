@@ -1,0 +1,9 @@
+{
+  "name": "Affiliate Gadgets Hub",
+  "short_name": "GadgetsHub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a202c",
+  "icons": []
+}
